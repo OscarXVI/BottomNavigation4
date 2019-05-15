@@ -1,4 +1,4 @@
-package com.example.bottomnavigation;
+package com.example.bottomnavigation.helper;
 
 import android.content.Context;
 import android.support.design.widget.BottomNavigationView;

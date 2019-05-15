@@ -1,4 +1,4 @@
-package com.example.bottomnavigation;
+package com.example.bottomnavigation.app;
 
 import android.app.Application;
 import android.text.TextUtils;
